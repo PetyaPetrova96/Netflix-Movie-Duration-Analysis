@@ -50,4 +50,4 @@ This project showcases my ability to work with real-world data, perform data cle
 ---
 
 ![Scatter Plot](scatter_movie_duration_by_year-of_release.png)
-
+  
